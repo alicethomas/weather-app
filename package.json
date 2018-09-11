@@ -18,6 +18,9 @@
     "url": "https://github.com/alicethomas/weather-app/issues"
   },
   "babel": {
+    "presets": [
+      "react"
+    ],
     "plugins": [
       "transform-object-rest-spread"
     ]
